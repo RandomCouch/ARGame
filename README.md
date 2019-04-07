@@ -15,6 +15,6 @@ When you are happy with stage placement, press the confirm button.
 
 In the AR game, you have a semi transparent helper cube attached to your camera, bring this cube close enough to the 3d sphere on the bottom left corner of the stage, when that sphere becomes green you will be able to tap and hold on your screen to drag the sphere around using your device. The sphere also controls the 2d circle, which travels through the maze. 
 
-The objective is to get the circle from the start to the end, without touching the walls! 
+The objective is to get the circle from the start to the end, without touching the walls! You gain points based on how fast the 2D circle is moving, and you lose 10 points whenever you touch the walls.
 
 Enjoy
