@@ -3,7 +3,7 @@
 
 Packages used:
 
-ARFoundation - Used to implement AR functionality
+ARFoundation - Used to implement AR functionality for both Android and iOS, however this project was only developed and tested on Android, but attempting an iOS build is welcome.
 
 How to play : 
 
