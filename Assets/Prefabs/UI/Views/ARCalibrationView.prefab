@@ -1364,7 +1364,7 @@ MonoBehaviour:
     \nUse the left slider to rotate the stage and the right slider to scale the stage\n\nWhen
     you are statisfied with stage placement, press the CONFIRM button\n\nWhen the
     game starts, get close to the sphere on the bottom left corner of the stage, when
-    it turns red you can tap and hold to move it with your device, move the circle
+    it turns green you can tap and hold to move it with your device, move the circle
     from the start area to the end area without touching the walls!"
 --- !u!1 &4733749799965785405
 GameObject:
